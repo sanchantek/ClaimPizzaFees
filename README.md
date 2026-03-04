@@ -1,6 +1,10 @@
 # ClaimPizzaFees
 Read how to claim your Pizza token trading fees (over 20.000 USD in one day) 
 
+Here is a link to the platforms official annoucements about the fewtyre https://x.com/pumpfun/status/2022029057869947173?s=46
+
+How to claim in steps (it might have been simplified)
+
 To claim creator fees allocated to your GitHub account on Pump.fun, you’ll need to use their mobile app, as the GitHub integration is handled there. Based on available information from the platform’s announcements and related discussions:
 •  Download the Pump.fun mobile app (available for iOS and Android).
 •  Sign in or connect with a Solana wallet (since fees are paid in SOL).
