@@ -1,7 +1,7 @@
 # ClaimPizzaFees
-Read how to claim your Pizza token trading fees (over 20.000 USD in one day) 
+Read how to claim your Pizza token trading fees (over 20.000 USD already and growing fast)
 
-Here is a link to the platforms official annoucements about the fewtyre https://x.com/pumpfun/status/2022029057869947173?s=46
+Here is a link to the platforms official annoucements about the feature https://x.com/pumpfun/status/2022029057869947173?s=46
 
 How to claim in steps (it might have been simplified)
 
@@ -12,3 +12,7 @@ To claim creator fees allocated to your GitHub account on Pump.fun, you’ll nee
 •  After linking, check the fees or earnings section in the app for any pending creator fees directed to your GitHub username.
 •  Claim the fees directly through the app interface, which will transfer the SOL to your connected wallet.
 This feature was launched in February 2026 to allow token creators to allocate fees to GitHub accounts, bridging crypto incentives with developer identities. 
+
+After claiming fees you could also buy some of the Pizza tokens and join the community on X (twitter)
+
+https://x.com/i/communities/2028693567879729365
